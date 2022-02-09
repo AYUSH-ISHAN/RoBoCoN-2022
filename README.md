@@ -27,3 +27,7 @@ Make sure to follow the directory  !
 For a custom image ball detection -- Go to  
        
        ./ball_detector/include/ball_detector/$ python ball_detector.py
+
+# To do:
+
+Improve USB_cam predictions.
