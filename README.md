@@ -1,11 +1,13 @@
 # RoboCon-2022
 
 The ABU Asia-Pacific Robot Contest (ABU Robocon) is an Asian-Oceanian college robot competition, founded in 2002 by Asia-Pacific Broadcasting Union. In the competition robots compete to complete a task within a set period of time. The contest aims to create friendship among young people with similar interests who will lead their countries in the 21st century, as well as help advance engineering and broadcasting technologies in the region.
-Contest Venue
-Thyagraj Stadium, New Delhi,
-INDIA
-Contest Duration
-19 - 23 Aug, 2022
+<br>
+Contest Venue :<br>                       
+Thyagraj Stadium, New Delhi,>br>
+INDIA<br>
+<br>
+Contest Duration :<br>
+19 - 23 Aug, 2022<br>
 
 # How to use the code : 
 
