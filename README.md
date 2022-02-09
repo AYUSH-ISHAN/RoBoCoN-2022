@@ -9,4 +9,4 @@ go
 
 For a custom image ball detection -- Go to  
        
-       .//ball_detector/include/ball_detector/$ python ball_detector.py
+       ./ball_detector/include/ball_detector/$ python ball_detector.py
